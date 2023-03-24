@@ -1,0 +1,959 @@
+@media(min-width:767px) and (max-width:991.99px){
+
+  .navbar-toggler:focus {
+    outline: 0;
+  }
+  .ban-left {
+    margin-top: 52px;
+  }
+
+ 
+
+  .ban-left h5 {
+    font-size: 16px;
+    padding: 18px 32px 0px 0px;
+  }
+
+ 
+
+  .ban-input input {
+    padding: 18px 18px 18px 20px;
+  }
+
+  .ban-button{
+    text-align: center;
+  }
+
+ 
+
+  /* brand */
+
+  .brand {
+    margin-top: 50px;
+    margin-bottom: 80px;
+  }
+
+  .brand-item img{
+
+    width: 100%;
+  }
+
+  /* tool */
+
+  .tool-head-left h2 {
+
+    font-size: 56px;
+    padding-right:0px;
+ 
+  }
+
+  .tools-heads-right p {
+    font-size: 16px;
+  }
+
+  .to-box-head {
+     margin-left: 0px;
+  }
+
+  .to-icon {
+    text-align: center;
+    padding: 17px;
+    width: 82px;
+    margin-left:0px;
+  }
+
+  .to-icon2 {
+    text-align: center;
+    padding: 17px;
+    width: 82px;
+    margin-left:0px;
+  }
+
+  .to-icon3 {
+    text-align: center;
+    padding: 17px;
+    width: 82px;
+    margin-left:0px;
+  }
+
+  .to-icon4 {
+    text-align: center;
+    padding: 17px;
+    width: 82px;
+    margin-left:0px;;
+  }
+
+  .to-icon5 {
+    text-align: center;
+    padding: 17px;
+    width: 82px;
+    margin-left: 0px;
+  }
+
+  .to-icon6 {
+    text-align: center;
+    padding: 17px;
+    width: 82px;
+    margin-left: 0px;
+  }
+
+  .to-box-head h3 {
+    padding-left: 16px;
+    font-size: 24px;
+  }
+
+  .to-box-content{
+
+    text-align: center;
+  }
+
+  .to-box-content p {
+    padding-top: 5px;
+    font-size: 16px;
+  }
+
+
+  .to-head-inner {
+    display: none;
+  }
+
+  /* task  */
+
+  .task-right img{
+
+    width: 100%;
+  }
+
+  .task-overlay{
+
+     display: none;
+  }
+
+  .task-left {
+    padding: 0;
+    margin-top: 20px;
+  }
+
+
+  .task-left h2 {
+    font-size: 56px;
+  }
+
+  #task {
+    margin-top: 50px;
+    position:static;
+  }
+
+  .task-left p {
+    font-size: 17px;
+    padding-right:0px;
+  }
+
+  .task-button{
+
+    text-align: center;
+  }
+
+  #dist-list {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+ .list-con-left img{
+
+  width: 100%;
+ }
+
+ /* list */
+
+ .list-con-right {
+
+  padding:0;
+  margin-top: 50px;
+
+}
+
+.list-item {
+  padding: 12px 0;
+  width: 77%;
+}
+
+.list-item p {
+  margin-bottom: 0;
+  line-height: 140%;
+  font-size: 15px;
+  padding:10px !important;
+}
+ 
+.list-con-right h2 {
+  font-size: 50px;
+}
+
+.list-con-right p {
+  font-size: 16px;
+}
+
+.col-con-button{
+  text-align: center;
+}
+
+.right-plan-header h2 {
+  font-size: 38px;
+
+}
+
+.intro-text ul li {
+  padding-right: 27px;
+
+}
+
+.right-btn {
+  text-align: center;
+}
+
+/* demo */
+.demo-text h1 {
+  font-size: 36px;
+}
+
+.demo-text p {
+  font-size: 14px;
+}
+
+.demo-text::after {
+
+  display: none;
+
+}
+
+/* team */
+
+#team {
+  margin-top: 80px;
+}
+
+.team-head h2 {
+  font-size: 37px;
+}
+
+.team-img img {
+  max-width: 240px;
+  height: 448px;
+  object-fit: cover;
+  
+}
+
+.team-mid p {
+  font-size: 15px;
+}
+
+.team-last img{
+  width: 100%;
+}
+
+.start-main h2 {
+  font-size: 38px;
+}
+
+#start {
+  
+  padding-bottom: 0px;
+}
+
+.form {
+  padding-top: 20px;
+  
+}
+
+.form-btn {
+  text-align: center;
+  
+}
+
+.form input{
+  padding-left: 20px;
+  max-width: 500px;
+}
+
+/* footer */
+
+.first-text p {
+  padding-right:0 ;
+}
+
+.last-left h3 {
+
+  font-size: 16px;
+  text-align: center;
+
+}
+.privacy p {
+  font-size: 16px;
+}
+
+.ploicy p {
+  font-size: 16px;
+}
+
+.last-right {
+  
+  padding-top: 25px;
+}
+
+
+.second-list ul li a {
+  font-size: 15px;
+  
+}
+
+}
+/* ====================
+      small device 
+================================ */
+
+@media(min-width:576px) and (max-width:766.99px){
+
+  .navbar-toggler:focus {
+    outline: 0;
+  }
+  .ban-left {
+    margin-top: 52px;
+  }
+
+  .ban-left h2 {
+    font-size: 54px;
+  }
+
+  .ban-left h5 {
+    font-size: 16px;
+    padding: 18px 32px 0px 0px;
+  }
+
+  .ban-input {
+    position:static;
+  }
+
+  .ban-input input {
+    padding: 18px 18px 18px 20px;
+  }
+
+  .ban-button{
+    text-align: center;
+  }
+
+  .ban-button button {
+    position: static;
+    margin-top: 20px;
+  }
+
+  /* brand */
+
+  .brand {
+    margin-top: 50px;
+    margin-bottom: 80px;
+  }
+
+  .brand-item img{
+
+    width: 100%;
+  }
+
+  /* tool */
+
+  .tool-head-left h2 {
+
+    font-size: 46px;
+    padding-right:0px;
+ 
+  }
+
+  .tools-heads-right p {
+    font-size: 16px;
+  }
+
+  .to-box-head {
+     margin-left: 28px;
+  }
+
+  .to-icon {
+    text-align: center;
+    padding: 17px;
+    width: 82px;
+    margin-left: 20px;
+  }
+
+  .to-icon2 {
+    text-align: center;
+    padding: 17px;
+    width: 82px;
+    margin-left: 20px;
+  }
+
+  .to-icon3 {
+    text-align: center;
+    padding: 17px;
+    width: 82px;
+    margin-left: 20px;
+  }
+
+  .to-icon4 {
+    text-align: center;
+    padding: 17px;
+    width: 82px;
+    margin-left: 20px;;
+  }
+
+  .to-icon5 {
+    text-align: center;
+    padding: 17px;
+    width: 82px;
+    margin-left: 20px;
+  }
+
+  .to-icon6 {
+    text-align: center;
+    padding: 17px;
+    width: 82px;
+    margin-left: 20px;
+  }
+
+  .to-box-head h3 {
+    padding-left: 0px;
+    text-align: center;
+  }
+
+  .to-box-content{
+
+    text-align: center;
+  }
+
+  .to-box-content p {
+    padding-top: 5px;
+    font-size: 16px;
+  }
+
+
+  .to-head-inner {
+    display: none;
+  }
+
+  /* task  */
+
+  .task-right img{
+
+    width: 100%;
+  }
+
+  .task-overlay{
+
+     display: none;
+  }
+
+  .task-left {
+    padding: 0;
+    margin-top: 20px;
+  }
+
+
+  .task-left h2 {
+    font-size: 45px;
+  }
+
+  #task {
+    margin-top: 50px;
+    position:static;
+  }
+
+  .task-left p {
+    font-size: 17px;
+    padding-right:0px;
+  }
+
+  .task-button{
+
+    text-align: center;
+  }
+
+  #dist-list {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+ .list-con-left img{
+
+  width: 100%;
+ }
+
+ /* list */
+
+ .list-con-right {
+
+  padding:0;
+  margin-top: 50px;
+
+}
+
+.list-item {
+  padding: 12px 0;
+  width: 77%;
+}
+
+.list-item p {
+  margin-bottom: 0;
+  line-height: 140%;
+  font-size: 15px;
+  padding:10px !important;
+}
+ 
+.list-con-right h2 {
+  font-size: 35px;
+}
+
+.list-con-right p {
+  font-size: 16px;
+}
+
+.col-con-button{
+  text-align: center;
+}
+
+.right-plan-header h2 {
+  font-size: 38px;
+
+}
+
+.intro-text ul li {
+  padding-right: 27px;
+
+}
+
+.right-btn {
+  text-align: center;
+}
+
+/* demo */
+.demo-text h1 {
+  font-size: 36px;
+}
+
+.demo-text p {
+  font-size: 14px;
+}
+
+.demo-text::after {
+
+  display: none;
+
+}
+
+/* team */
+
+#team {
+  margin-top: 80px;
+}
+
+.team-head h2 {
+  font-size: 37px;
+}
+
+.team-img img {
+  max-width: 240px;
+  height: 448px;
+  object-fit: cover;
+  
+}
+
+.team-mid p {
+  font-size: 15px;
+}
+
+.team-last img{
+  width: 100%;
+}
+
+.start-main h2 {
+  font-size: 38px;
+}
+
+#start {
+  
+  padding-bottom: 0px;
+}
+
+.form {
+  padding-top: 20px;
+  flex-direction: column;
+}
+
+.form-btn {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.form input{
+  padding-left: 20px;
+  max-width: 500px;
+}
+
+/* footer */
+
+.first-text p {
+  padding-right:0 ;
+}
+
+.last-left h3 {
+
+  font-size: 16px;
+  text-align: center;
+
+}
+.privacy p {
+  font-size: 16px;
+}
+
+.ploicy p {
+  font-size: 16px;
+}
+
+.last-right {
+  
+  padding-top: 25px;
+}
+
+
+.second-list ul li a {
+  font-size: 15px;
+  
+}
+
+}
+
+/* ====================
+     extra small device 
+================================ */
+
+
+@media(max-width:575.99px){
+
+  .navbar-toggler:focus {
+    outline: 0;
+  }
+
+  .ban-left {
+    margin-top: 52px;
+  }
+
+  .ban-left h2 {
+
+    font-size: 36px;
+  
+  }
+
+  .ban-left h5 {
+ 
+    font-size: 16px;
+    padding: 18px 37px 0px 0px;
+  }
+
+  .ban-input {
+
+    position:static;
+
+   
+  }
+
+  .ban-input input {
+    padding: 18px 18px 18px 20px;
+  }
+
+  .ban-button{
+    text-align: center;
+  }
+
+  .ban-button button {
+    position: static;
+    margin-top: 20px;
+  }
+
+  /* brand */
+
+  .brand {
+    margin-top: 50px;
+    margin-bottom: 80px;
+  }
+
+  .brand-item img{
+
+    width: 100%;
+  }
+
+  /* tool */
+
+  .tool-head-left h2 {
+
+    font-size: 38px;
+    padding-right:0px;
+ 
+  }
+
+  .tools-heads-right p {
+    font-size: 16px;
+  }
+
+  .to-box-head {
+    flex-direction: column;
+  }
+
+  .to-icon {
+    text-align: center;
+    padding: 17px;
+    width: 82px;
+    margin: 0 auto;
+  }
+
+  .to-icon2 {
+    text-align: center;
+    padding: 17px;
+    width: 82px;
+    margin: 0 auto;
+  }
+
+  .to-icon3 {
+    text-align: center;
+    padding: 17px;
+    width: 82px;
+    margin: 0 auto;
+  }
+
+  .to-icon4 {
+    text-align: center;
+    padding: 17px;
+    width: 82px;
+    margin: 0 auto;
+  }
+
+  .to-icon5 {
+    text-align: center;
+    padding: 17px;
+    width: 82px;
+    margin: 0 auto;
+  }
+
+  .to-icon6 {
+    text-align: center;
+    padding: 17px;
+    width: 82px;
+    margin: 0 auto;
+  }
+
+  .to-box-head h3 {
+    padding-left: 0px;
+    text-align: center;
+  }
+
+  .to-box-content{
+
+    text-align: center;
+  }
+
+  .to-box-content p {
+    padding-top: 5px;
+  }
+
+  /* task  */
+
+  .task-right img{
+
+    width: 100%;
+  }
+
+  .task-overlay{
+
+     display: none;
+  }
+
+  .task-left {
+    padding: 0;
+    margin-top: 20px;
+  }
+
+
+  .task-left h2 {
+    font-size: 29px;
+  }
+
+  #task {
+    margin-top: 50px;
+    position:static;
+  }
+
+  .task-left p {
+    font-size: 16px;
+    padding-right:0px;
+  }
+
+  .task-button{
+
+    text-align: center;
+  }
+
+  #dist-list {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+ .list-con-left img{
+
+  width: 100%;
+ }
+
+ /* list */
+
+ .list-con-right {
+
+  padding:0;
+  margin-top: 50px;
+
+}
+
+
+/* task */
+
+
+.list-con-right h2 {
+  font-size: 35px;
+}
+
+.list-con-right p {
+  font-size: 16px;
+}
+
+.col-con-button{
+  text-align: center;
+}
+
+.right-plan-header h2 {
+  font-size: 38px;
+
+}
+
+
+.intro-text ul li {
+  padding-right: 27px;
+
+}
+
+
+.right-btn {
+  text-align: center;
+}
+
+
+/* demo */
+
+.demo-text h1 {
+  font-size: 36px;
+}
+
+.demo-text p {
+  font-size: 14px;
+}
+
+
+
+.demo-text::after {
+
+  display: none;
+
+}
+
+/* team */
+
+#team {
+  margin-top: 80px;
+}
+
+
+.team-head h2 {
+  font-size: 37px;
+}
+
+
+
+.team-mid p {
+  font-size: 15px;
+}
+
+.team-last img{
+  width: 100%;
+}
+
+.start-main h2 {
+  font-size: 38px;
+}
+
+
+.form {
+  padding-top: 20px;
+  flex-direction: column;
+}
+
+.form-btn {
+  text-align: center;
+  margin-top: 15px;
+}
+
+
+.form input{
+  padding-left: 20px;
+}
+
+
+/* footer */
+
+.first-text p {
+  padding-right:0 ;
+}
+
+.last-left h3 {
+
+  font-size: 16px;
+  text-align: center;
+
+}
+
+.privacy p {
+  font-size: 16px;
+}
+
+.ploicy p {
+  font-size: 16px;
+}
+
+.last-right {
+  
+  padding-top: 25px;
+}
+   
+  }
+
+      
+
+
+  
+      
+
+
+
+
+
+
+
+
+
+
+
+
+      
+
+
